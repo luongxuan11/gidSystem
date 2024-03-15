@@ -1,0 +1,9 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+.card-item {
+  border: 1px dashed orange;
+  text-align: center;
+}
